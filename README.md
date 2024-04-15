@@ -2,7 +2,7 @@
 
 ### 版本迭代
 
-- [1.0.9](http://gitlab.dgdream.online/digital-studio/linkingTeam/CloudDrop/-/wikis/CloudDrop-%E7%89%88%E6%9C%AC%E8%BF%AD%E4%BB%A3-1.0.9) 版本迭代
+- [1.0.9](https://github.com/gaowei1012/CloudDrop/wiki/v1.0.9) 版本迭代
 
 ### 项目预览
 
